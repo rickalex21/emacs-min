@@ -1,0 +1,15 @@
+* Org File :mytag:
+:PROPERTIES:
+:DATE:     [2024-01-15 Mon 22:40]
+:UPDATED:  [2024-01-15 Mon 22:40]
+:NODES:    [[id:org:402546][org:402546]]
+:ID:       org:402546
+:END:
+Some org file here.
+* Testing
+:PROPERTIES:
+:DATE:     [2024-01-15 Mon 22:43]
+:UPDATED:  [2024-01-15 Mon 22:43]
+:NODES:    [[id:org:402546][org:402546]]
+:ID:       test:309025
+:END:
